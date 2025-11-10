@@ -1,0 +1,13 @@
+chainlit
+langchain>=0.2.0
+chromadb
+faiss-cpu
+pypdf
+unstructured
+sentence-transformers
+python-docx
+python-pptx
+tqdm
+# optional local inference
+ollama
+llama-cpp-python

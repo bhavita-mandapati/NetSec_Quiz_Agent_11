@@ -1,0 +1,14 @@
+[project]
+enable_telemetry = true
+session_timeout = 3600
+
+[features]
+prompt_playground = true
+multi_modal = true
+
+[UI]
+name = "Group 11 — NetSec Tutor & Quiz Bot"
+show_readme_as_default = true
+default_collapse_content = true
+default_expand_messages = false
+hide_cot = true
