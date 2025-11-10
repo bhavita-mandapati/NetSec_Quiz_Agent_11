@@ -1,5 +1,5 @@
 
-# 🧠 **Group 11 – Agent-Based Intelligent Tutor for Network Security**
+# **Group 11 – Agent-Based Intelligent Tutor for Network Security**
 
 ## **1. Project Overview**
 
