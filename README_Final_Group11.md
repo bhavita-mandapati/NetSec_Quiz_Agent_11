@@ -193,7 +193,7 @@ chainlit run src/app.py -w
 
 ---
 
-✅ **Submission Files**
+**Submission Files**
 ```
 group11_prototype.zip
 │
