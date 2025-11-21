@@ -1,0 +1,9 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+tqdm
+duckduckgo-search
+chainlit
+
